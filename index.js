@@ -39,3 +39,28 @@ numberButtons.forEach((button) => {
         calculator.appendNumber(button.innerText);
     })
 })
+
+class CalculatorTest{
+    constructor(prevOperand, currOperand){
+        this.previousOperand = prevOperand;
+        this.currentOperand = currOperand;
+    }
+    clear(){
+
+    }
+    delete(){
+
+    }
+    appendNumber(number){
+        console.log(number)
+    }
+    chooseOperation(){
+
+    }
+    compute(){
+
+    }
+    getDisplayNumber(){
+
+    }
+}
