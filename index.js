@@ -40,27 +40,27 @@ numberButtons.forEach((button) => {
     })
 })
 
-class CalculatorTest{
-    constructor(prevOperand, currOperand){
-        this.previousOperand = prevOperand;
-        this.currentOperand = currOperand;
-    }
-    clear(){
+// class CalculatorTest{
+//     constructor(prevOperand, currOperand){
+//         this.previousOperand = prevOperand;
+//         this.currentOperand = currOperand;
+//     }
+//     clear(){
 
-    }
-    delete(){
+//     }
+//     delete(){
 
-    }
-    appendNumber(number){
-        console.log(number)
-    }
-    chooseOperation(){
+//     }
+//     appendNumber(number){
+//         console.log(number)
+//     }
+//     chooseOperation(){
 
-    }
-    compute(){
+//     }
+//     compute(){
 
-    }
-    getDisplayNumber(){
+//     }
+//     getDisplayNumber(){
 
-    }
-}
+//     }
+// }
